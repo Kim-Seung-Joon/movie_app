@@ -2,7 +2,7 @@
 
 ## 주소
 
-kim-seung-joon.github.io/movie_app
+##kim-seung-joon.github.io/movie_app
 
 ### 설명
 
